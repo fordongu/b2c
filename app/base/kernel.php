@@ -165,6 +165,8 @@ class kernel{
             self::$__router->dispatch($path);
 
         }catch(Exception $e){
+	    print_r($e->getMessage());
+	    die;
             base_errorpage::exception_handler($e);
         }
     }
