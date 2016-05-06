@@ -1,0 +1,9 @@
+Product-Name = ecstore56-2.0-source
+Registered-To = ShopEx
+Max-Concurrent = 5
+Lease-Expiration = 60
+Wait-For-Lease = no
+Expires = Never
+Hardware-Locked = No
+Produced-By = ShopEx
+Verification-Code = 0CVImTiMd/8PlavoedYsE2qAARFBAhUA5KlICTCxxhSczWj8eBAuW36Ebh8=
